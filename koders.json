@@ -16,7 +16,11 @@
       "edad": 25
     },
     {
-      "id": 3
+      "id": 3,
+      "name": "Alejandra",
+      "modulo": "AWS",
+      "generacion": "18Js",
+      "edad": 25
     },
     {
       "id": 4,
@@ -94,6 +98,13 @@
       "modulo": "React",
       "generacion": "21Js",
       "edad": 25
+    },
+    {
+      "id": 15,
+      "name": "Ferdinand",
+      "modulo": "Javascript",
+      "generacion": "21Js",
+      "edad": 28
     }
   ]
 }
